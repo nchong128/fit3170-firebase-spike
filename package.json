@@ -1,0 +1,23 @@
+{
+  "name": "firebase-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchong128/fit3170-firebase-spike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchong128/fit3170-firebase-spike/issues"
+  },
+  "homepage": "https://github.com/nchong128/fit3170-firebase-spike#readme",
+  "dependencies": {
+    "buffered-reader": "^1.0.1",
+    "firebase": "^8.4.3"
+  }
+}
